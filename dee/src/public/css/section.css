@@ -1,0 +1,38 @@
+.section{
+    border-bottom: 1px dashed #ccc;
+    margin-top: 10px;
+    height: 210px;
+    cursor: pointer;
+    padding-left: 40px;
+    color: #666;
+    overflow: hidden;
+}
+.title{
+    font-size: 1.17em;
+    font-weight: bold;
+
+}
+.title:hover{
+    color: blue;
+}
+
+
+.cd{
+    font-size: 13px;
+    margin-top: 15px;
+}
+.date{
+    margin-right: 5px;
+
+
+}
+.content{
+    overflow: hidden;
+    margin-left: 25px;
+    font-size: 13px;
+    height: 100px;
+}
+.cd-buttom{
+    padding-top: 30px;
+    margin-bottom: 3px;
+}
